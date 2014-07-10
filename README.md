@@ -10,10 +10,7 @@ Contact the developer
 
 <center>
             <a href="https://twitter.com/Metaslaya"> <IMG HEIGHT="40" WIDTH="40" SRC="http://oi59.tinypic.com/6qjhfr.jpg"> </a>
-               
- <!--<a href="https://instagram.com/ax3178"> <IMG HEIGHT="40" WIDTH="40" SRC="http://oi61.tinypic.com/2preiyg.jpg"> </a> -->
-                   
- <a href="mailto:nazario.va@gmail.com"> <IMG HEIGHT="40" WIDTH="40" SRC="http://oi59.tinypic.com/depmqs.jpg"> </a>
+              <a href="mailto:nazario.va@gmail.com"> <IMG HEIGHT="40" WIDTH="40" SRC="http://oi59.tinypic.com/depmqs.jpg"> </a>
         </center>
 
 
