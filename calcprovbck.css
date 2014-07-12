@@ -1,9 +1,8 @@
 body {
 
-    height: 400px; 
-    width: 400x;
-    background-image: url(http://oi59.tinypic.com/2070pec.jpg)     
-
+    height: 100%; 
+    width: 100%;
+    background-image: url(http://oi58.tinypic.com/4tvkpk.jpg)     
 }
 
 
@@ -22,22 +21,22 @@ background-repeat: no-repeat;
 }
 
 .bajo {
-color: black; 
+color: white; 
 font-family: 'Josefin Slab', serif;
 text-align: center;
-font-size: 400%
-
+font-size: 500%
 
 }
 
+
+
 .bajopeq {
-color: black; 
+color: white; 
 font-family: 'Josefin Slab', serif;
 text-align: center
 
 }
 
 body {
-
-background-attachment: fixed
+background-attachment: fixed;
 }
