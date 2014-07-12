@@ -6,15 +6,16 @@ body {
 
 }
 
-S
+
 
 .bajo2 {
 color: black; 
 font-family: 'Josefin Slab', serif;
-text-align: left
+vertical-align: text-bottom; 
 
 
 }
+
 
 body {
 background-repeat: no-repeat;
