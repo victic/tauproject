@@ -1,8 +1,26 @@
 body {
 
-    height: 100%; 
-    width: 100%;
-    background-image: url(http://oi57.tinypic.com/97ilp1.jpg)
+    height: 400px; 
+    width: 400x;
+    background-image: url(http://oi59.tinypic.com/2070pec.jpg)          
+}
 
-           
+
+
+.bajo {
+color: white; 
+font-family: 'Josefin Slab', serif;
+text-align: center
+
+}
+
+body {
+background-repeat: no-repeat;
+}
+
+.bajo2 {
+color: black; 
+font-family: 'Josefin Slab', serif;
+text-align: left;
+
 }
