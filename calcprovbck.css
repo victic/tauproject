@@ -2,15 +2,17 @@ body {
 
     height: 400px; 
     width: 400x;
-    background-image: url(http://oi59.tinypic.com/2070pec.jpg)          
+    background-image: url(http://oi59.tinypic.com/2070pec.jpg)     
+
 }
 
+S
 
-
-.bajo {
-color: white; 
+.bajo2 {
+color: black; 
 font-family: 'Josefin Slab', serif;
-text-align: center
+text-align: left
+
 
 }
 
@@ -18,9 +20,23 @@ body {
 background-repeat: no-repeat;
 }
 
-.bajo2 {
+.bajo {
 color: black; 
 font-family: 'Josefin Slab', serif;
-text-align: left;
+text-align: center;
+font-size: 400%
 
+
+}
+
+.bajopeq {
+color: black; 
+font-family: 'Josefin Slab', serif;
+text-align: center
+
+}
+
+body {
+
+background-attachment: fixed
 }
