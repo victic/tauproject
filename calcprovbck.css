@@ -1,4 +1,4 @@
-/*  http://oi58.tinypic.com/4tvkpk.jpg*/ 
+
 
 html { 
   background: url(http://oi58.tinypic.com/2r2q72q.jpg) no-repeat center center fixed; 
@@ -40,4 +40,38 @@ text-align: center
 
 body {
 background-attachment: fixed;
+}
+
+
+.menu {
+
+color: white;
+font-family: 'Josefin Slab', serif; 
+text-align: center
+
+}
+
+
+/* unvisited link */
+a:link {
+    color: white;
+text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: white;
+text-decoration: none;
 }
