@@ -1,7 +1,7 @@
 tauproject
 =================
 
-This is a project I am doing for high school math investigation, my intention is to develop a new system to measure angles instead of the one used in  the <i> International System of Units</i>  (Radians).
+This is a project I am doing for my high school math investigation, my intention is to develop a new system to measure angles instead of the one used in  the <i> International System of Units</i>  (Radians).
 
 
 
