@@ -52,6 +52,11 @@ text-align: center
 }
 
 
+.porc {
+  widht: 80%;
+}
+
+
 /* unvisited link */
 a:link {
     color: white;
